@@ -47,7 +47,7 @@ public class Hworld {
         double averageGrade = (double) totalGrade / numSubjects;
         System.out.println("Overall Average Grade: " + averageGrade);
         System.out.println("Number of Failed Subjects: " + failedSubjects);
-        scanner.close();
+        scanner.close(); 
         }
     }
     
