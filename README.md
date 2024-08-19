@@ -6,6 +6,6 @@ Schedule:
 
 Submission Compilation <br>
 1. [Activity01](https://github.com/osiristape/Python-Basics/blob/main/Activity01.ipynb) // python
-2. [Activity02.zip](https://github.com/osiristape/data-structure-activities/blob/main/Activity02.zip)
+2. [Activity02.zip](https://github.com/osiristape/data-structure-activities/blob/main/Hworld.java)
 3. 
 
