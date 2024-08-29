@@ -7,7 +7,7 @@ import java.util.stream.*;
 public class ATM {
     public static void main(String[] args) {
         
-        double balance = 0.00;
+        double balance = 1345.00;
         Scanner scanner = new Scanner(System.in);
         int choice;
 
